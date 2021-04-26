@@ -1,9 +1,9 @@
 # Student Details
 
-- Name: 
-- Roll Number: 
-- Branch: 
-- Semester: 
+- Name: Manisha kiran
+- Roll Number: MCA/10034/19
+- Branch: MCA
+- Semester: IV
 
 # Guidelines
 
